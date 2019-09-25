@@ -2,7 +2,7 @@
 <ul>
   <li>It is a platform that is used by people to build Social Network and stay connected with family, friends, colleagues, customers or clients. </li>
   <li>Skills– HTML, CSS, JavaScript, JQuery, AngularJS, AJAX, JSON, PHP and MySQL</li>
-
+</ul>
 <h2> Key Features: </h2> 
 <ul> 
   <li>Ease of Connectivity</li>
